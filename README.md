@@ -11,4 +11,4 @@ Open your browser on "http://localhost:8888?XDEBUG_SESSION_START=PHPSTORM"
 
 ## Configuring PHPStorm and XDEBUG
 
-* All the required configurations are explained in [this](https://dev.to/brpaz/docker-phpstorm-and-xdebug-the-definitive-guide-14og4) blog post.
+* All the required configurations are explained in [this](https://dev.to/brpaz/docker-phpstorm-and-xdebug-the-definitive-guide-14og) blog post.
