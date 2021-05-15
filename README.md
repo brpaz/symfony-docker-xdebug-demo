@@ -5,7 +5,8 @@
 ## Install
 
 1. clone this repo
-2. ```docker-compose up```
+2. cp .env.dist .env
+3. ```docker-compose up```
 
 Open your browser on "http://localhost:8888?XDEBUG_SESSION_START=PHPSTORM"
 
